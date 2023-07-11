@@ -1,0 +1,7 @@
+build: GLib 2.67.3 required
+
+g_memdup2 was added in https://github.com/cafe-desktop/ctk/commit/72dae2e33b29e17efac9056c7cdf6b0ec0ccc8cb
+
+GLib 2.67.3 is now required
+
+See https://gitlab.gnome.org/GNOME/glib/-/commit/5bc9710fa644115b39bcc6fbed3b44397fd5bfa5

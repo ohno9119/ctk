@@ -1,0 +1,4 @@
+ctkfontchooserwidget: avoid deprecated 'hb_ot_layout_script_find_language'
+
+based in gtk commit:
+https://gitlab.gnome.org/GNOME/gtk/-/commit/3723778f427af7c095c1f6d7218fe4e0863c2429
